@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mdb_static_sex'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_mdbstaticsex_sex">Static Sex</label>
+			<label index="tx_mdbstaticsex_sex.title">title</label>
+			<label index="tx_mdbstaticsex_sex.title_de">German Title</label>
+			<label index="tx_mdbstaticsex_sex.description">Description</label>
+			<label index="tx_mdbstaticsex_sex.description_de">German Description</label>
+			<label index="tx_mdbstaticsex_sex.iso5218">Value iso5218</label>
+			<label index="tx_mdbstaticsex_sex.active_entry">Active Entry</label>
+			<label index="tx_mdbstaticsex_sex.cdc">CDC (Centers for Disease Control and Prevention)</label>
+			<label index="tx_mdbstaticsex_sex.ecml">ECML (Electronic Commerce Modeling Language)</label>
+			<label index="tx_mdbstaticsex_sex.naaccr">NAACCR (North American Association of Central Cancer Registries)</label>
+			<label index="tx_mdbstaticsex_sex.usa_census">USA Census (Bureau of the Census)</label>
+			<label index="tx_mdbstaticsex_sex.hl7">HL7 (Health Level 7)</label>
+			<label index="tx_mdbstaticsex_sex.x12">X12 (ANSI ASC X12)</label>
+			<label index="tx_mdbstaticsex_sex.astm_e1633">ASTM E1633</label>
+			<label index="tx_mdbstaticsex_sex.dcm">DCM (DICOM)</label>
+			<label index="tx_mdbstaticsex_sex.zims">ZIMS (Zooligic Information-Management-System)</label>
+			<label index="tx_mdbstaticsex_sex.obis">OBIS (Ocean Biogeographic Information System)</label>
+			<label index="tx_mdbstaticsex_sex.ubif">UBIF (Unified Biosciences Information Framework)</label>
+			<label index="tx_mdbstaticsex_sex.ubif_short">UBIF Abbreviation</label>
+			<label index="tt_content.list_type_pi1">Static Sex</label>
+		</languageKey>
+	</data>
+</T3locallang>
